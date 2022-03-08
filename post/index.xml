@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Site Hugo Baru</title>
+    <link>https://damarasf.github.io/playground/post/</link>
+    <description>Recent content in Posts on Site Hugo Baru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id</language>
+    <lastBuildDate>Wed, 17 Nov 2021 14:15:55 +0700</lastBuildDate><atom:link href="https://damarasf.github.io/playground/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postingan Pertama</title>
+      <link>https://damarasf.github.io/playground/post/mypost/</link>
+      <pubDate>Wed, 17 Nov 2021 14:15:55 +0700</pubDate>
+      
+      <guid>https://damarasf.github.io/playground/post/mypost/</guid>
+      <description>Postingan pertama.</description>
+    </item>
+    
+  </channel>
+</rss>

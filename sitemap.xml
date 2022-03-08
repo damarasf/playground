@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://damarasf.github.io/playground/categories/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/categories/development/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/tags/hugo/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/post/mypost/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/post/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/categories/publishing/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/tags/static-site-generator/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url><url>
+    <loc>https://damarasf.github.io/playground/tags/</loc>
+    <lastmod>2021-11-17T14:15:55+07:00</lastmod>
+  </url>
+</urlset>
